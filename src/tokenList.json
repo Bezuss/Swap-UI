@@ -1,0 +1,95 @@
+[
+    {
+        "ticker": "USDC",
+        "img": "https://explorer.injective.network/vendor/@injectivelabs/token-metadata/usdc.svg",
+        "name": "USD Coin",
+        "Denom": "peggy0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+        "decimals": 6
+    },
+    {
+        "ticker": "INJ",
+        "img": "https://explorer.injective.network/vendor/@injectivelabs/token-metadata/injective-v3.svg",
+        "name": "Injective",
+        "Denom": "inj",
+        "decimals": 18
+    },
+    {
+        "ticker": "USDT",
+        "img": "https://explorer.injective.network/vendor/@injectivelabs/token-metadata/usdt.svg",
+        "name": "Tether USD",
+        "Denom": "peggy0xdAC17F958D2ee523a2206206994597C13D831ec7",
+        "decimals": 6
+    },
+    {
+        "ticker": "ASTRO",
+        "img": "https://explorer.injective.network/vendor/@injectivelabs/token-metadata/astroport.png",
+        "name": "ASTRO",
+        "Denom": "ibc/EBD5A24C554198EBAF44979C5B4D2C2D312E6EBAB71962C92F735499C7575839",
+        "decimals": 6
+    },
+    {
+        "ticker": "ATOM",
+        "img": "https://explorer.injective.network/vendor/@injectivelabs/token-metadata/atom.svg",
+        "name": "Cosmos",
+        "Denom": "ibc/C4CFF46FD6DE35CA4CF4CE031E643C8FDC9BA4B99AE598E9B0ED98FE3A2319F9",
+        "decimals": 6
+    },
+    {
+        "ticker": "WETH",
+        "img": "https://explorer.injective.network/vendor/@injectivelabs/token-metadata/ethereum.svg",
+        "name": "Wrapped Ethereum",
+        "Denom": "peggy0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "decimals": 18
+    },
+    {
+        "ticker": "WBTC",
+        "img": "https://explorer.injective.network/vendor/@injectivelabs/token-metadata/wbtc.svg",
+        "name": "Wrapped Bitcoin",
+        "Denom": "peggy0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599",
+        "decimals": 8
+    },
+    {
+        "ticker": "SOL",
+        "img": "https://explorer.injective.network/vendor/@injectivelabs/token-metadata/solana.svg",
+        "name": "SOL",
+        "Denom": "factory/inj14ejqjyq8um4p3xfqj74yld5waqljf88f9eneuk/inj1sthrn5ep8ls5vzz8f9gp89khhmedahhdkqa8z3",
+        "decimals": 8
+    },
+    {
+        "ticker": "SOMM",
+        "img": "https://explorer.injective.network/vendor/@injectivelabs/token-metadata/sommelier.png",
+        "name": "Sommelier",
+        "Denom": "ibc/34346A60A95EB030D62D6F5BDD4B745BE18E8A693372A8A347D5D53DBBB1328B",
+        "decimals": 6
+    },
+    {
+        "ticker": "STRD",
+        "img": "https://explorer.injective.network/vendor/@injectivelabs/token-metadata/stride.png",
+        "name": "Stride",
+        "Denom": "ibc/3FDD002A3A4019B05A33D324B2F29748E77AF501BEA5C96D1F28B2D6755F9F25",
+        "decimals": 6
+    },
+    {
+        "ticker": "LINK",
+        "img": "https://explorer.injective.network/vendor/@injectivelabs/token-metadata/chainlink.svg",
+        "name": "Chainlink",
+        "Denom": "peggy0x514910771AF9Ca656af840dff83E8264EcF986CA",
+        "decimals": 18
+    },
+    {
+        "ticker": "XPRT",
+        "img": "https://explorer.injective.network/vendor/@injectivelabs/token-metadata/xprt.svg",
+        "name": "Persistence",
+        "Denom": "ibc/B786E7CBBF026F6F15A8DA248E0F18C62A0F7A70CB2DABD9239398C8B5150ABB",
+        "decimals": 6
+    },
+    {
+        "ticker": "CHZ",
+        "img": "https://explorer.injective.network/vendor/@injectivelabs/token-metadata/chz.png",
+        "name": "Chiliz",
+        "Denom": "factory/inj14ejqjyq8um4p3xfqj74yld5waqljf88f9eneuk/inj1q6kpxy6ar5lkxqudjvryarrrttmakwsvzkvcyh",
+        "decimals": 8
+    }
+
+
+]
